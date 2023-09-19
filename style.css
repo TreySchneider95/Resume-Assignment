@@ -1,0 +1,26 @@
+body{
+    margin: 0% 20%;
+    background-color: azure;
+}
+
+img{
+    float: right;
+}
+
+.header{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+}
+
+.list-2{
+    text-align: end;
+}
+
+li{
+    color: darkblue;
+}
+
+.test{
+    border-radius: 10px 10px 0px;
+}
